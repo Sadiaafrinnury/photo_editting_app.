@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.photo_editting_app-mergeDebugResources-40:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sadia\\.gradle\\caches\\transforms-3\\2b3c8daa64903c6bfa0250ff0529fa3b\\transformed\\jetified-ucrop-2.2.9\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,151,205,252,296",
+                        "endColumns": "41,53,53,46,43,42",
+                        "endOffsets": "92,146,200,247,291,334"
+                    }
+                }
+            ]
+        }
+    ]
+}
